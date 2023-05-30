@@ -1,0 +1,43 @@
+<style>
+    body {background: url('BACKGROUNDURLHERE'); background-color: #PAGEBACKGROUNDCOLORHERE;}
+
+    .petImage { content: url(OPTIONAL PET IMAGE URL HERE, YOU CAN ADJUST HEIGHT, TO HAVE NO CUSTOM PIC REMOCE THIS LINE); height: 400px;}
+
+    img {border:none;}
+
+    table:first-of-type td:first-of-type table:nth-of-type(2) td:first-of-type {
+display: none;}
+
+    #activitiesManager{display:none;}
+
+    .petLookupContainer{background-color:#PETTABLECOLORHERE; opacity:0.9; padding:25px; box-shadow: 2px 2px 6px #474747; width: 900px; position: relative; margin-left: 40%;}
+
+    .hdr{display:none;}
+
+    #hdr{display:none;}
+
+    td, p, body, a{color:#FONTCOLORHERE; font-family:Georgia;font-size:9pt;}
+
+    a:link{color:#LINKCOLORHERE; font-family:times;font-size:8pt;}
+
+    a:visited{color:#VISITEDLINKCOLORHERE; font-family:verdana;font-size:8pt;}
+
+    a:hover{color:#HOVERCOLORHERE;font-family:verdana;font-size:8pt;text-decoration:underline;}
+
+    .petStatsBlock {display: none;}
+
+    .petLinks {display: none;}
+
+    .petBDStats {display: none;}
+
+    .footertext {display: none;}
+
+    .petPetPet {display: none;}
+
+    .petBelongingsContainer { opacity:0.5;}
+
+    hr { border: 0px; }
+</style>	
+
+<center><a href="https://neopetsclassic.com/petcentral/">pet central</a><br>
+TEXT TEXT TEXT TEXT TEXT TEXT TEXT</br></center>
